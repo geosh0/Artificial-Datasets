@@ -29,7 +29,7 @@ Instead of using repetitive procedural scripts, this repository is built on a st
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/artificial-dataset-processing.git
+   git clone https://github.com/geosh0/artificial-dataset-processing.git
    cd artificial-dataset-processing
 
 ## Install dependencies:
